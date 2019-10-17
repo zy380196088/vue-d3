@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@keyframes rippleLeft {
+  0% {
+    opacity: .2;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 100%;
+  }
+}
